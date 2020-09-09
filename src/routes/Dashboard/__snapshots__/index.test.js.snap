@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Dashboard component on mount snapshot test 1`] = `ShallowWrapper {}`;
+
+exports[`Test Dashboard component snapshot test 1`] = `ReactWrapper {}`;
